@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## 4.4.0 - 2025-12-30
+
+### What's Changed
+
+* build(deps): bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/3
+* build(deps-dev): bump barryvdh/laravel-ide-helper from 3.6.0 to 3.6.1 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/4
+* build(deps-dev): bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/5
+* build(deps-dev): bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/6
+* build(deps-dev): bump larastan/larastan from 3.8.0 to 3.8.1 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/7
+* build(deps): bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/8
+* build(deps): bump livewire/livewire from 3.7.1 to 3.7.2 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/9
+* build(deps): bump livewire/livewire from 3.7.2 to 3.7.3 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/10
+* build(deps): bump laravel/framework from 12.43.1 to 12.44.0 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/11
+* build(deps-dev): bump barryvdh/laravel-debugbar from 3.16.2 to 3.16.3 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/12
+
+**Full Changelog**: https://github.com/jeffersongoncalves/evolutionkitv4/compare/4.3.1...4.4.0
+
 ## 4.3.1 - 2025-12-09
 
 ### What's Changed
