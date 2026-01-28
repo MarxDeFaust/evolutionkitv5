@@ -31,7 +31,7 @@ web applications with a ready-to-use multi-panel structure.
 
 Clone the repository
 ``` bash
-laravel new my-app --using=jeffersongoncalves/evolutionkitv4 --database=mysql
+laravel new my-app --using=jeffersongoncalves/evolutionkitv4
 ```
 
 ###  Easy Installation
