@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## 4.6.3 - 2026-01-31
+
+### What's Changed
+
+* build(deps-dev): bump autoprefixer from 10.4.23 to 10.4.24 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/32
+* build(deps): bump psy/psysh from 0.12.18 to 0.12.19 by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/33
+
+**Full Changelog**: https://github.com/jeffersongoncalves/evolutionkitv4/compare/4.6.2...4.6.3
+
 ## 4.6.2 - 2026-01-30
 
 ### What's Changed
